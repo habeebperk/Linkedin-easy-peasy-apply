@@ -15,7 +15,7 @@ Before you get started, make sure you have the following installed on your syste
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/bomzj/easy-peasy-apply.git
+   git clone https://github.com/habeebperk/Linkedin-easy-peasy-apply.git (OR) This (https://github.com/bomzj/easy-peasy-apply.git)
    ```
 
 2. Navigate to the project directory:
